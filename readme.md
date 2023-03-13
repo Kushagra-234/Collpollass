@@ -27,8 +27,7 @@ docker-compose up
 https://github.com/Kushagra-234/Collpollass/blob/a2fc96ad07de3618eb00399971304934de722bca/pom.xml#L63-L77
 ### Added redis Service in compose-file
 
-https://github.com/s-pratyush/spring-project/blob/90fffcab0e2c4d7f85db6332cdbfa0b010cdd528/docker-compose.yml#L25-L31
-
+https://github.com/Kushagra-234/Collpollass/blob/main/docker-compose.yml#L26-L34
 ### Updated cache config file
 
 https://github.com/s-pratyush/spring-project/blob/90fffcab0e2c4d7f85db6332cdbfa0b010cdd528/src/main/java/org/springframework/samples/petclinic/system/CacheConfiguration.java#L1-L72
