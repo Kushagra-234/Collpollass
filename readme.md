@@ -18,6 +18,7 @@ docker-compose up
 ### run server
 ```
 ./mvnw spring-boot:run -Dspring-boot.run.profiles=mysql
+<!--  -->for connecting with mysql server
 ```
 
 ## Updates for integrating redis-chache- 
