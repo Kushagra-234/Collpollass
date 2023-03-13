@@ -24,7 +24,7 @@ docker-compose up
 
 ### Added Dependencies for redis- 
 
-https://github.com/Kushagra-234/Collpollassignemnt/blob/90fffcab0e2c4d7f85db6332cdbfa0b010cdd528/pom.xml#L63-L75
+https://github.com/Kushagra-234/Collpollass/blob/90fffcab0e2c4d7f85db6332cdbfa0b010cdd528/pom.xml#L63-L75
 
 ### Added redis Service in compose-file
 
