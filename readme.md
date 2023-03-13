@@ -21,7 +21,7 @@ docker-compose up
 <!--  -->for connecting with mysql server
 ```
 
-## Updates for integrating redis-chache- 
+## Updates for integrating redis-cache- 
 
 ### Added Dependencies for redis- 
 
